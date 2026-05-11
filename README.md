@@ -155,7 +155,7 @@ cd HR-Analytics-Dashboard
 📂 HR-Analytics-Dashboard/
 ├── 📊 HR_Analytics_Dashboard.pbix    # Power BI dashboard file
 ├── 📋 HR_Employee_Data.xlsx          # Raw dataset (Excel)
-├── 🖼️  dashboard_preview.png         # Dashboard screenshot
+├── 🖼️ Dashboard_preview.png          # Dashboard screenshot
 └── 📄 README.md                      # Project documentation
 ```
 
